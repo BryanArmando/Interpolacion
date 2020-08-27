@@ -6,6 +6,7 @@ int primero=0, ultimo=7-1, medio, n=5, contador=0;
 fstream archivo;
 void interpol();
 void imprimir(int a[]);
+//commit
 
 int main(){
   archivo.open("Inperpolacion.txt", ios::app);
